@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MasterOfShadows1990
+- 👋 Hi, I’m Saracut Ioan
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
